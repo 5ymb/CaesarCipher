@@ -3,7 +3,7 @@
   <p><b>A Comprehensive Java Implementation for Encryption, Decryption, and Cryptanalysis</b></p>
 
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" alt="Java">
-  <img src="https://img.shields.io/badge/Category-Cryptography-red?style=for-the-badge" alt="Security">
+  <img src="https://img.shields.io/badge/Security-Cryptography-blue?style=for-the-badge" alt="Cryptography">
 </div>
 
 <hr />
