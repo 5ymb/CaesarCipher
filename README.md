@@ -2,7 +2,6 @@
   <h1>🔐 Caesar Cipher Suite</h1>
   <p><b>A Comprehensive Java Implementation for Encryption, Decryption, and Cryptanalysis</b></p>
 
-  <img src="https://img.shields.io/badge/User-5ymb-blueviolet?style=for-the-badge&logo=github" alt="User 5ymb">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/Category-Cryptography-red?style=for-the-badge" alt="Security">
 </div>
