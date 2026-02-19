@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🔐 Caesar Cipher Suite</h1>
+  <h1>🔐 Caesar Cipher</h1>
   <p><b>A Comprehensive Java Implementation for Encryption, Decryption, and Cryptanalysis</b></p>
 
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" alt="Java">
