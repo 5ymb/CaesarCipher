@@ -49,7 +49,7 @@ This implementation uses modular arithmetic to shift characters within the 26-le
 ### Usage
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/5ymb/CaesarCipher.git](https://github.com/5ymb/CaesarCipher.git)
+    git clone https://github.com/5ymb/CaesarCipher.git
     ```
 2.  **Compile the code:**
     ```bash
